@@ -1,0 +1,79 @@
+{
+  "id": "1924519",
+  "name": "Travel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "旅游",
+  "glyphs": [
+    {
+      "icon_id": "495787",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "797081",
+      "name": "网址",
+      "font_class": "wangzhi",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "6332450",
+      "name": "home",
+      "font_class": "home1",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "8106256",
+      "name": "Incoming_call",
+      "font_class": "Incoming_call",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "8106270",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "8106272",
+      "name": "next",
+      "font_class": "next",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "10670577",
+      "name": "address",
+      "font_class": "address",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "10678401",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "10678419",
+      "name": "genie community",
+      "font_class": "geniecommunity",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "11641903",
+      "name": "网址",
+      "font_class": "wangzhi1",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
